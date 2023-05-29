@@ -5,6 +5,7 @@
       "brand": "LIFESTYLE",
       "price": 120,
       "rate": 5,
+      "color": "blue",
       "image": "https://themewagon.github.io/minishop/images/product-1.png"
     },
     {
@@ -12,6 +13,7 @@
       "brand": "LIFESTYLE",
       "price": 140,
       "rate": 5,
+      "color": "brown",
       "image": "https://themewagon.github.io/minishop/images/product-2.png"
     },
     {
@@ -19,6 +21,7 @@
       "brand": "LIFESTYLE",
       "price": 100,
       "rate": 5,
+      "color": "blue",
       "image": "https://themewagon.github.io/minishop/images/product-3.png"
     },
     {
@@ -26,6 +29,7 @@
       "brand": "LIFESTYLE",
       "price": 100,
       "rate": 5,
+      "color": "blue",
       "image": "https://themewagon.github.io/minishop/images/product-4.png"
     },
     {
@@ -33,6 +37,7 @@
       "brand": "LIFESTYLE",
       "price": 165,
       "rate": 5,
+      "color": "brown",
       "image": "https://themewagon.github.io/minishop/images/product-5.png"
     },
     {
@@ -40,6 +45,7 @@
       "brand": "LIFESTYLE",
       "price": 180,
       "rate": 5,
+      "color": "brown",
       "image": "https://themewagon.github.io/minishop/images/product-6.png"
     },
     {
@@ -47,6 +53,7 @@
       "brand": "LIFESTYLE",
       "price": 240,
       "rate": 5,
+      "color": "blue",
       "image": "https://themewagon.github.io/minishop/images/product-7.png"
     },
     {
@@ -54,6 +61,7 @@
       "brand": "LIFESTYLE",
       "price": 215,
       "rate": 5,
+      "color": "pink",
       "image": "https://themewagon.github.io/minishop/images/product-8.png"
     }
   ]
